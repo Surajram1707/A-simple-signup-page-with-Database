@@ -1,0 +1,32 @@
+body{
+	background: url("https://i.pinimg.com/originals/e6/3c/59/e63c595dd1ad68d9699c73ffb7343d91.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+*{
+	font-family: 'Courgette', cursive;
+}
+
+h1{
+	font-weight: bolder;
+	font-size: 50px;
+}
+form{
+	font-size: 20px;
+}
+input{
+	border-radius: 30px;
+	font-size: 20px;
+	border: 3px solid black;
+	height: 50px;
+	width: 300px;
+	text-align: center;
+}
+.dull{
+	background-color:rgb(128,0,128,0.5);
+	border: 5px solid black;
+	border-radius: 30px;
+	height: inherit;
+	width:700px;
+	color: black;
+}
